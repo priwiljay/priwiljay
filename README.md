@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @priwiljay (Prince J)
-- 👀 I’m a mobile developer with more experience in Android and less in iOS
-- 🌱 I’m currently trying to learn Neural Network concepts.
+- 👀 I’m a software developer
 - 📫 Reach me via my email (princecodin@gmail.com)
 
 <!---
